@@ -9,3 +9,4 @@
 180.101.49.11 www.baidu.com
 104.244.43.234 youtube.com
 104.244.43.234 wikipedia.org
+103.102.166.224 zh.wikipedia.org
