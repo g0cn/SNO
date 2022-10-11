@@ -7,3 +7,4 @@
 101.89.47.179 wx.qq.com
 122.224.48.223 m.v.qq.com
 180.101.49.11 www.baidu.com
+104.244.43.234 youtube.com
