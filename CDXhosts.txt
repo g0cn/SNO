@@ -13,3 +13,4 @@
 91.198.174.192 zh.m.wikipedia.org
 125.77.17.112 pvp.qq.com
 122.224.48.223 pvp.qq.com
+109.244.197.142 video.qq.com
