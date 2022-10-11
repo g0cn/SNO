@@ -11,3 +11,5 @@
 104.244.43.234 wikipedia.org
 103.102.166.224 zh.wikipedia.org
 91.198.174.192 zh.m.wikipedia.org
+125.77.17.112 pvp.qq.com
+122.224.48.223 pvp.qq.com
