@@ -70,5 +70,17 @@
     "isActive": true,
     "reverseOrder": false,
     "status": "可用"
-  }
+  },
+	{
+	"id": 20,
+	"key": "多多资源(切)",
+	"name": "多多资源(切)",
+	"api": "https://www.ddzyz1.com/api.php/provide/vod/at/xml",
+		"download": "",
+	"jiexiUrl": "https://player.movie09.com/dplayer/?url=",
+	"group": "默认",
+	"isActive": true,
+	"status": "可用",
+	"reverseOrder": true
+	}
 ]
