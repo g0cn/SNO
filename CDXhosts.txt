@@ -16,3 +16,5 @@
 109.244.197.142 video.qq.com
 104.70.99.209 www.voachinese.com
 23.42.71.219 www.voachinese.com
+124.239.227.226 i.jandan.net
+58.218.215.132 i.jandan.net
