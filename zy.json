@@ -1,0 +1,74 @@
+[
+  {
+    "id": 22,
+    "key": "一拳动漫(优)",
+    "name": "一拳动漫(优)",
+    "api": "http://47.97.68.224/api.php/provide/vod/at/xml/",
+        "download": "",
+    "jiexiUrl": "https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url=",
+    "group": "#优质资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 33,
+    "key": "U酷资源(优)",
+    "name": "U酷资源(优)",
+    "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
+        "download": "",
+    "jiexiUrl": "https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url=",
+    "group": "#优质资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 36,
+    "key": "百度资源(切)",
+    "name": "百度资源(切)",
+    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
+        "download": "",
+    "jiexiUrl": "https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url=",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 37,
+    "key": "八戒资源(切)",
+    "name": "八戒资源(切)",
+    "api": "http://cj.bajiecaiji.com/inc/api.php",
+        "download": "",
+    "jiexiUrl": "https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url=",
+    "group": "#切片资源",
+    "isActive": false,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "key": "八戒云",
+    "id": 63,
+    "name": "八戒云",
+    "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+    "download": "",
+    "jiexiUrl": "https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url=",
+    "group": "默认",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  },
+  {
+    "key": "天空云",
+    "id": 64,
+    "name": "天空云",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+    "download": "",
+    "jiexiUrl": "https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url=",
+    "group": "默认",
+    "isActive": true,
+    "reverseOrder": false,
+    "status": "可用"
+  }
+]
