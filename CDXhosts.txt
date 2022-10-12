@@ -18,3 +18,5 @@
 23.42.71.219 www.voachinese.com
 124.239.227.226 i.jandan.net
 58.218.215.132 i.jandan.net
+124.239.227.225 jandan.net
+101.72.205.234 jandan.net
