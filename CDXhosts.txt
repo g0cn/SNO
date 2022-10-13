@@ -1,5 +1,6 @@
 152.136.248.215 i.ifeng.com
 180.97.245.252 news.ifeng.com
+192.144.196.161 mil.ifeng.com
 20.205.243.166 github.com
 140.82.121.3 github.com
 123.126.43.249 m.weibo.cn
