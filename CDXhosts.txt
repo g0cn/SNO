@@ -40,6 +40,7 @@
 91.198.174.192 zh.m.wikipedia.org
 125.77.17.112 pvp.qq.com
 122.224.48.223 pvp.qq.com
+112.25.105.109 pvp.qq.com
 109.244.197.142 video.qq.com
 104.70.99.209 www.voachinese.com
 23.42.71.219 www.voachinese.com
