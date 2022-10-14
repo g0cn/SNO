@@ -1,5 +1,31 @@
+# gouzi (c)2022- 自定义hosts表.
+
+
+# 凤凰网host
+#天津主机
+42.81.85.231 www.ifeng.com
+#美国主机
+101.33.21.30 www.ifeng.com
+#韩国主机
+43.155.149.28 www.ifeng.com
+#香港主机
+43.152.14.34 www.ifeng.com
+#太原联通主机
+221.204.209.232 www.ifeng.com
+#北京电信主机
 152.136.248.215 i.ifeng.com
-180.97.245.252 news.ifeng.com
+#美国主机
+49.51.190.27 i.ifeng.com
+#北京主机
+192.144.196.161 i.ifeng.com
+#太原联通主机
+221.204.209.232 news.ifeng.com
+#泉州电信主机
+106.126.10.120 news.ifeng.com
+#美国主机腾讯云730092570
+43.132.84.26 news.ifeng.com
+#首尔腾讯云731616540
+43.155.149.28
 192.144.196.161 mil.ifeng.com
 20.205.243.166 github.com
 140.82.121.3 github.com
