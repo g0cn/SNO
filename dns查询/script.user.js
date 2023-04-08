@@ -1,5 +1,5 @@
 // ==userscript==
-// @name         dns查询
+// @name         dns
 // @author 山人
 // @description  DNS版本，适配中
 // @namespace    http://example.com/
