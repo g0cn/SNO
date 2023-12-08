@@ -1,0 +1,91 @@
+[
+    {
+        "name": "海外影院🎦",
+        "api": "https://haiwaikan.com/api.php/provide/vod/",
+        "note": "需要代理"
+    },
+    {
+        "name": "极速资源",
+        "api": "https://jszyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "卧龙资源",
+        "api": "https://collect.wolongzy.cc/api.php/provide/vod/"
+    },
+    {
+        "name": "索尼影院🎦",
+        "api": "https://suoniapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "天空资源",
+        "api": "https://api.tiankongapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "飞速资源",
+        "api": "https://www.feisuzyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "红牛资源",
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
+    },
+    {
+        "name": "非凡资源",
+        "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "量子资源",
+        "api": "https://cj.lziapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "大漠资源",
+        "api": "https://damozy.com/api.php/provide/vod/"
+    },
+    {
+        "name": "ikun资源",
+        "api": "https://ikunzyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "光速影院🎦",
+        "api": "https://api.guangsuapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "百度云资源",
+        "api": "https://api.apibdzy.com/api.php/provide/vod/"
+    },
+    {
+        "name": "ck资源",
+        "api": "https://ckzy.me/api.php/provide/vod/"
+    },
+    {
+        "name": "快播资源",
+        "api": "https://caiji.kczyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "U酷影院🎦",
+        "api": "https://api.ukuapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "闪电资源",
+        "api": "https://sdzyapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "无尽资源",
+        "api": "https://api.wujinapi.com/api.php/provide/vod/"
+    },
+    {
+        "name": "魔都影院🎦",
+        "api": "https://www.moduzy.com/api.php/provide/vod/"
+    },
+    {
+        "name": "快看影院🎦",
+        "api": "https://kuaikan-api.com/api.php/provide/vod/"
+    },
+    {
+        "name": "樱花资源",
+        "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
+    },
+    {
+        "name": "四圈资源",
+        "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
+    }
+]
