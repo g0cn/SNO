@@ -2,7 +2,6 @@
     {
         "name": "海外影院🎦",
         "api": "https://haiwaikan.com/api.php/provide/vod/",
-        "note": "需要代理"
     },
     {
         "name": "极速资源",
@@ -31,10 +30,6 @@
     {
         "name": "非凡资源",
         "api": "https://cj.ffzyapi.com/api.php/provide/vod/"
-    },
-    {
-        "name": "量子资源",
-        "api": "https://cj.lziapi.com/api.php/provide/vod/"
     },
     {
         "name": "大漠资源",
@@ -73,7 +68,7 @@
         "api": "https://api.wujinapi.com/api.php/provide/vod/"
     },
     {
-        "name": "魔都影院🎦",
+        "name": "魔都影院",
         "api": "https://www.moduzy.com/api.php/provide/vod/"
     },
     {
